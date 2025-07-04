@@ -44,6 +44,46 @@ This is a personal initiative to build deep, practical knowledge in offensive se
 
 ---
 
+## 🧪 LAB
+
+> “A space where I build and document labs based on my learning progress and research.”
+
+This section contains **custom labs** I’ve created to reinforce and demonstrate my understanding of various web application vulnerabilities. Each lab is designed as a hands-on environment for testing, breaking, and analyzing flaws in a controlled and ethical setting.
+
+This is a personal initiative to build deep, practical knowledge in **offensive security**, with a primary focus on **web application vulnerabilities**.
+
+---
+
+### 🔧 Lab Goals
+
+- Simulate real-world vulnerability scenarios
+- Explore exploitation techniques and edge cases
+- Document both offensive and defensive perspectives
+- Learn by doing — not just reading
+
+---
+
+### 📁 Structure
+
+Labs may include:
+
+- Vulnerable source code
+- Setup instructions (Docker, local, etc.)
+- Writeups and PoC (Proof of Concept)
+- Fixes or mitigations when applicable
+
+---
+
+### 🔍 Preference
+
+This lab include reference from Cyberjustsu "CBJS", Portswigger, Challange CTFs, ...
+https://cyberjutsu.io/
+https://portswigger.net/
+
+---
+
+
+
 ## 🔗 Contact
 
 - 🌐 Blog: _Coming Soon..._
