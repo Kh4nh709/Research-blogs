@@ -1,0 +1,11 @@
+<Directory "/upload">
+    <FilesMatch ".*">
+        SetHandler text/plain
+    </FilesMatch>
+</Directory>
+
+<Directory "/upload/*">
+    <FilesMatch ".*">
+        SetHandler text/plain
+    </FilesMatch>
+</Directory> 
