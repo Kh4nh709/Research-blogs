@@ -1,6 +1,6 @@
 # WebReseach-Blogs
 
-📚 A personal collection of **blogs**, **writeups**, **lab** and **research** on **web application vulnerabilities** and **ethical hacking techniques**.
+📚 A personal collection of **blogs** and **research** on **web application vulnerabilities** and **ethical hacking techniques**.
 
 ---
 
