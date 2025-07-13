@@ -11,7 +11,7 @@ This repository is a knowledge base where I document:
 - Research on **real-world web vulnerabilities**
 - Hands-on analysis of security bugs in web applications
 - Blog posts exploring exploitation techniques, defense mechanisms, and interesting case studies
-- My personal learning journey in **web security, bug bounty, and ethical hacking**
+- My personal learning journey in **web security and ethical hacking**
 
 Whether you're a student, CTF player — I hope this content helps you better understand web application flaws and how to prevent them.
 
@@ -53,36 +53,6 @@ This section contains **custom labs** I’ve created to reinforce and demonstrat
 This is a personal initiative to build deep, practical knowledge in **offensive security**, with a primary focus on **web application vulnerabilities**.
 
 ---
-
-### 🔧 Lab Goals
-
-- Simulate real-world vulnerability scenarios
-- Explore exploitation techniques and edge cases
-- Document both offensive and defensive perspectives
-- Learn by doing — not just reading
-
----
-
-### 📁 Structure
-
-Labs may include:
-
-- Vulnerable source code
-- Setup instructions (Docker, local, etc.)
-- Writeups and PoC (Proof of Concept)
-- Fixes or mitigations when applicable
-
----
-
-### 🔍 Preference
-
-This lab include reference from Cyberjustsu "CBJS", Portswigger, Challange CTFs, ...
-https://cyberjutsu.io/
-https://portswigger.net/
-
----
-
-
 
 ## 🔗 Contact
 
